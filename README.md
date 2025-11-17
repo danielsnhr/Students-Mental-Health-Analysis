@@ -50,11 +50,10 @@ Hypothesis 1: Students who have been in the country longer will show lower depre
 | Medium    | 9.10           |
 | Long      | 10.13          |
 
-**Result:** Contrary to expectations, depression scores are **highest in the Long-stay group**, suggesting that longer residence does **not necessarily reduce depressive symptoms**.
+**Result:** Contrary to expectations, depression scores are **highest in the Long-stay group**, suggesting that longer residence does **not necessarily reduce depressive symptoms**.  
 
----
+  
 Hypothesis 2: Students who stay longer might report higher social connectedness.
-
 | Stay Group | Avg Social Connectedness (tosc) |
 |-----------|--------------------------------|
 | Short     | 37.94                          |
@@ -62,9 +61,8 @@ Hypothesis 2: Students who stay longer might report higher social connectedness.
 | Long      | 35.78                          |
 
 **Result:** Social connectedness is **slightly lower for Long-stay students**, indicating that longer stays **do not automatically lead to stronger social bonds**.
-
----
-
+  
+  
 Hypothesis 3: Acculturative stress is expected to be higher during shorter stays and decrease over time.
 | Stay Group | Avg Acculturative Stress (toas) |
 |-----------|--------------------------------|
@@ -73,7 +71,6 @@ Hypothesis 3: Acculturative stress is expected to be higher during shorter stays
 | Long      | 75.44                          |
 
 **Result:** Acculturative stress is **highest for Long-stay students**, suggesting that stress may **accumulate over time** rather than decrease.
-
 ---
 ## 4. Key Insights
 
