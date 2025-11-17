@@ -5,7 +5,7 @@
 In this project, we explore whether studying in a foreign country affects mental health outcomes for international university students.  
 What you will find in this repository:  
 
-- The database --> mental_health.db (286 records) 
+- The database --> mental_health.csv (286 records) 
 - The notebook --> mental-health.ipynb
 
 CONTENT 
